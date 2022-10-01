@@ -18,5 +18,5 @@ O C# é uma linguagem multiplataforma. Sendo assim, você pode utilizá-la para 
 
 O .NET oferece aos desenvolvedores um ambiente virtual controlado: em vez de escrever código para uma aplicação específica, ele passa a escrever para a plataforma. é um pacote de classes com soluções codificadas para problemas comuns de programação, suporta várias linguagens de programação no ambiente.
 
-4. Principal IDE de Desenvolvimento em .NET: [Visual Studio](https://code.visualstudio.com/download) , [Visual Studio Code](https://code.visualstudio.com/download)
+4. Principal IDE de Desenvolvimento em .NET: [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/) , [Visual Studio Code](https://code.visualstudio.com/download)
 
